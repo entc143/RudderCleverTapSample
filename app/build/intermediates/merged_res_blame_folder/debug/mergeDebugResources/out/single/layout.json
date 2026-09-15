@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.rudderclevertapsample.app-mergeDebugResources-56:/layout/activity_thank_you.xml",
+        "source": "com.example.rudderclevertapsample.app-main-59:/layout/activity_thank_you.xml"
+    },
+    {
+        "merged": "com.example.rudderclevertapsample.app-mergeDebugResources-56:/layout/activity_main.xml",
+        "source": "com.example.rudderclevertapsample.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.rudderclevertapsample.app-mergeDebugResources-56:/layout/activity_welcome.xml",
+        "source": "com.example.rudderclevertapsample.app-main-59:/layout/activity_welcome.xml"
+    }
+]

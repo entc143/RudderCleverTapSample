@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855051334647",
+    "project_id": "rudderclevertapsample",
+    "storage_bucket": "rudderclevertapsample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855051334647:android:6402ffd66519858e6434f2",
+        "android_client_info": {
+          "package_name": "com.example.rudderclevertapsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDFsEUUSb9YfsZ3u1CXyxNDRIiduVIMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

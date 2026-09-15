@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.rudderclevertapsample.app-mergeDebugResources-55:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/sachin.gajbhiye/.gradle/caches/9.3.0/transforms/251c5770f46b25d7e8d683b5d52076ed/transformed/material-1.12.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,673,732,795",
+                        "endLines": "2,3,4,5,6,7,9,10,11,12,13,17",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,19,21,22,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "651,711,781,852,924,982,1040,1149,1264,1320,1892,1955",
+                        "endLines": "11,12,13,14,15,16,18,19,21,22,32,36",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "706,776,847,919,977,1035,1144,1208,1315,1374,1950,2122"
+                    }
+                },
+                {
+                    "source": "/Users/sachin.gajbhiye/.gradle/caches/9.3.0/transforms/99a9ba8caccf507444724eea9891681c/transformed/appcompat-1.7.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "95,164,233,303,377,453,512,583",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "159,228,298,372,448,507,578,646"
+                    }
+                },
+                {
+                    "source": "/Users/sachin.gajbhiye/.gradle/caches/9.3.0/transforms/5223866820ecbf5720208bd5febb2fdd/transformed/clevertap-android-sdk-7.6.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,146,199,259,320,379,437,496,553,607",
+                        "endColumns": "39,50,52,59,60,58,57,58,56,53,51",
+                        "endOffsets": "90,141,194,254,315,374,432,491,548,602,654"
+                    },
+                    "to": {
+                        "startLines": "2,20,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,1213,1379,1432,1492,1553,1612,1670,1729,1786,1840",
+                        "endColumns": "39,50,52,59,60,58,57,58,56,53,51",
+                        "endOffsets": "90,1259,1427,1487,1548,1607,1665,1724,1781,1835,1887"
+                    }
+                }
+            ]
+        }
+    ]
+}

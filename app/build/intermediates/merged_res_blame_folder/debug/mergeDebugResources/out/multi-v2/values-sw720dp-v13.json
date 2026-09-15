@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.rudderclevertapsample.app-mergeDebugResources-55:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/sachin.gajbhiye/.gradle/caches/9.3.0/transforms/5223866820ecbf5720208bd5febb2fdd/transformed/clevertap-android-sdk-7.6.0/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,146,199,259,320,379,437,496,553,607",
+                        "endColumns": "39,50,52,59,60,58,57,58,56,53,51",
+                        "endOffsets": "90,141,194,254,315,374,432,491,548,602,654"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color purple_700
+color teal_200
+drawable ic_app_icon_pink
+id buttonAddToCart
+id buttonEvent
+id buttonIdentify
+id buttonProductView
+id textTitle
+layout activity_main
+layout activity_thank_you
+layout activity_welcome
+string app_name
+string button_add_to_cart
+string button_event
+string button_identify
+string button_product_view
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+string thank_you_message
+string welcome_message
+style Theme.RudderCleverTapSample

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RudderStack &lt;&gt; CleverTap Sample</string>
+    <string name="button_identify">Identify</string>
+    <string name="button_event">Event</string>
+    <string name="button_add_to_cart">Add to Cart</string>
+    <string name="button_product_view">Product View</string>
+    <string name="thank_you_message">Thank You!</string>
+    <string name="welcome_message">Welcome to RudderStack&lt;&gt;CleverTap</string>
+</resources>

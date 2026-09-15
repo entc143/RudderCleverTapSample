@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <string name="app_name">RudderStack &lt;> CleverTap Sample</string>
+    <string name="button_add_to_cart">Add to Cart</string>
+    <string name="button_event">Event</string>
+    <string name="button_identify">Identify</string>
+    <string name="button_product_view">Product View</string>
+    <string name="gcm_defaultSenderId" translatable="false">855051334647</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhDFsEUUSb9YfsZ3u1CXyxNDRIiduVIMo</string>
+    <string name="google_app_id" translatable="false">1:855051334647:android:6402ffd66519858e6434f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhDFsEUUSb9YfsZ3u1CXyxNDRIiduVIMo</string>
+    <string name="google_storage_bucket" translatable="false">rudderclevertapsample.firebasestorage.app</string>
+    <string name="project_id" translatable="false">rudderclevertapsample</string>
+    <string name="thank_you_message">Thank You!</string>
+    <string name="welcome_message">Welcome to RudderStack&lt;>CleverTap</string>
+    <style name="Theme.RudderCleverTapSample" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>

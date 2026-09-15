@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.rudderclevertapsample.app-debug-57:/drawable_ic_app_icon_pink.xml.flat",
+        "source": "com.example.rudderclevertapsample.app-main-59:/drawable/ic_app_icon_pink.xml"
+    },
+    {
+        "merged": "com.example.rudderclevertapsample.app-debug-57:/layout_activity_main.xml.flat",
+        "source": "com.example.rudderclevertapsample.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.rudderclevertapsample.app-debug-57:/layout_activity_thank_you.xml.flat",
+        "source": "com.example.rudderclevertapsample.app-main-59:/layout/activity_thank_you.xml"
+    },
+    {
+        "merged": "com.example.rudderclevertapsample.app-debug-57:/layout_activity_welcome.xml.flat",
+        "source": "com.example.rudderclevertapsample.app-main-59:/layout/activity_welcome.xml"
+    }
+]
