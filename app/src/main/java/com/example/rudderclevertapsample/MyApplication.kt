@@ -20,8 +20,8 @@ import kotlinx.serialization.json.buildJsonObject
  */
 class MyApplication : Application() {
     companion object {
-        private const val WRITE_KEY = "3JJ3c1fMq0hkH202I6fCMaTAmRW"
-        private const val DATA_PLANE_URL = "https://clevertapvhcnymhkt.dataplane.rudderstack.com"
+        private const val WRITE_KEY = "xxxxxxxx"
+        private const val DATA_PLANE_URL = "https://cxxxxxxx.dataplane.rudderstack.com"
         lateinit var analytics: Analytics
         lateinit var cleverTapIntegration: CleverTapIntegration
     }
