@@ -1,2 +1,0 @@
-# RudderCleverTapSample
-without clevertap details
